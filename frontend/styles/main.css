@@ -1,3 +1,16 @@
 .navbar-brand img {
-  max-height: 40px;
+  max-height: 60px;
+}
+
+.btn-primary {
+  background-color: transparent;
+  border-color: #1770BB;
+  width: 152px;
+  height: 35px;
+  border-radius: 6px;
+  font-family: inherit;
+}
+
+.navbar-item {
+  font-family: inherit;
 }/*# sourceMappingURL=main.css.map */
